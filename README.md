@@ -1,7 +1,7 @@
 # kgulkotw-SP
 C program to check if the number is and even or odd number.
 The code will take integer as input from user to determine if it number is odd or even.
-# Compilation
+## Compilation
 To compile the Code:
 Open the terminal, navigate to the directory for the source code
 Then enter command:

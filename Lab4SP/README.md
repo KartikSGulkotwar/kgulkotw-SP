@@ -5,4 +5,5 @@ Opens two files, the first one in append mode and the second one in read mode. I
 ### Compilation
 To compile, open the terminal and navigate to the directory for the source code and enter command: gcc Lab4.c -o concatenate
 After compiling concatenate the two files and ensure that the filenames are different and if the filenames are same, an error message will be displayed.
+Link for Repository: https://github.com/KartikSGulkotwar/kgulkotw-SP/tree/main/Lab4SP
  
